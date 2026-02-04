@@ -1,3 +1,45 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "http://localhost/"
+languageCode = "fr-fr"
+title = "Nathan Charpentier | Cybersécurité"
+theme = "PaperMod"
+
+enableRobotsTXT = true
+
+[menu]
+
+[[menu.main]]
+identifier = "home"
+name = "Accueil"
+url = "/"
+weight = 1
+
+[[menu.main]]
+identifier = "about"
+name = "À propos"
+url = "/about/"
+weight = 2
+
+[[menu.main]]
+identifier = "cv"
+name = "CV"
+url = "/cv/"
+weight = 3
+
+[[menu.main]]
+identifier = "posts"
+name = "Articles"
+url = "/posts/"
+weight = 4
+
+[[menu.main]]
+identifier = "awareness"
+name = "Sensibilisation"
+url = "/awareness/"
+weight = 5
+
+[[menu.main]]
+identifier = "contact"
+name = "Contact"
+url = "/contact/"
+weight = 6
+
