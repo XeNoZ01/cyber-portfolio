@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on Nathan Charpentier | Cybersécurité</title><link>http://localhost/posts/</link><description>Recent content in Posts on Nathan Charpentier | Cybersécurité</description><generator>Hugo -- 0.154.3</generator><language>fr-fr</language><lastBuildDate>Wed, 28 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Pourquoi les ransomwares restent une menace majeure</title><link>http://localhost/posts/premiere-veille-cyber/</link><pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate><guid>http://localhost/posts/premiere-veille-cyber/</guid><description>&lt;h2 id="contexte"&gt;Contexte&lt;/h2&gt;
+&lt;p&gt;Les attaques par ransomware continuent d’augmenter et touchent aussi bien les grandes entreprises que les PME, les hôpitaux ou les collectivités.&lt;/p&gt;
+&lt;p&gt;Malgré une meilleure sensibilisation, ce type d’attaque reste l’une des menaces les plus rentables pour les cybercriminels.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="ce-qui-se-passe"&gt;Ce qui se passe&lt;/h2&gt;
+&lt;p&gt;Les attaquants exploitent principalement :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;des failles non corrigées&lt;/li&gt;
+&lt;li&gt;des accès exposés sur Internet&lt;/li&gt;
+&lt;li&gt;des erreurs humaines (phishing, mots de passe faibles)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Une fois l’accès obtenu, le chiffrement des données est souvent précédé d’un vol d’informations, augmentant la pression sur les victimes.&lt;/p&gt;</description></item></channel></rss>
