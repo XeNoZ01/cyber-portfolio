@@ -39,10 +39,10 @@ Il s’adresse à la fois :
 
 ## Me découvrir
 
-- 🔍 [Comprendre mon parcours](/about/)
-- 📄 [Consulter mon CV](/cv/)
-- 📰 [Lire mes analyses cyber](/posts/)
-- ✉️ [Me contacter](/contact/)
+- 🔍 [Comprendre mon parcours](about/)
+- 📄 [Consulter mon CV](cv/)
+- 📰 [Lire mes analyses cyber](posts/)
+- ✉️ [Me contacter](contact/)
 
 ---
 ## Dernier article
