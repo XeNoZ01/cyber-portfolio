@@ -1,4 +1,4 @@
-baseURL = "http://localhost/"
+baseURL = "https://xenoz01.github.io/cyber-portfolio/"
 languageCode = "fr-fr"
 title = "Nathan Charpentier | Cybersécurité"
 theme = "PaperMod"
