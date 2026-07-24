@@ -1,6 +1,7 @@
 +++
 title = "À propos"
 draft = false
+hiddenInHomeList = true
 +++
 
 ## Qui je suis

@@ -1,6 +1,7 @@
 +++
 title = "Contact"
 draft = false
+hiddenInHomeList = true
 +++
 
 Merci d'avoir pris le temps de visiter mon portfolio.

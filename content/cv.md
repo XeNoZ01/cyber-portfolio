@@ -1,6 +1,7 @@
 +++
 title = "Curriculum Vitae"
 draft = false
+hiddenInHomeList = true
 +++
 
 ## **Nathan Charpentier**
