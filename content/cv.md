@@ -1,9 +1,9 @@
 +++
-title = "CV"
+title = "Curriculum Vitae"
 draft = false
 +++
 
-# Nathan Charpentier
+## **Nathan Charpentier**
 
 **Consultant Cybersécurité Junior**  
 **GRC • Gestion des Risques • ISO 27001 • Blue Team**

@@ -3,8 +3,6 @@ title = "Projets"
 draft = false
 +++
 
-# Projets
-
 Cette page rassemble les projets techniques, cybersécurité et documentation qui illustrent mon parcours, mes compétences et ma progression vers les métiers GRC, Blue Team et ingénierie cybersécurité.
 
 ---

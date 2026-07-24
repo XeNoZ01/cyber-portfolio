@@ -3,8 +3,6 @@ title = "Expériences"
 draft = false
 +++
 
-# Expériences professionnelles
-
 Cette page présente les expériences qui ont contribué à construire mon parcours en cybersécurité, aussi bien sur les aspects techniques que sur les dimensions gouvernance, risque et conformité.
 
 ---

@@ -1,9 +1,15 @@
 baseURL = "https://xenoz01.github.io/cyber-portfolio/"
 languageCode = "fr-fr"
+defaultContentLanguage = "fr"
 title = "Nathan Charpentier | Cybersécurité"
 theme = "PaperMod"
 
 enableRobotsTXT = true
+
+[languages]
+  [languages.fr]
+    languageName = "Français"
+    weight = 1
 
 [menu]
 
