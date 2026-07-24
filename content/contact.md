@@ -3,8 +3,6 @@ title = "Contact"
 draft = false
 +++
 
-# Contact
-
 Merci d'avoir pris le temps de visiter mon portfolio.
 
 Si vous souhaitez échanger à propos de mon parcours, d'un projet, d'une opportunité professionnelle ou simplement discuter de cybersécurité, n'hésitez pas à me contacter. Je serai ravi d'échanger avec vous.
