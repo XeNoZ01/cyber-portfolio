@@ -6,33 +6,32 @@ hiddenInHomeList = true
 
 ## **Nathan Charpentier**
 
-**Consultant Cybersécurité Junior**  
-**GRC • Gestion des Risques • ISO 27001 • Blue Team**
+**Cybersécurité junior**  
+**GRC • Gestion des risques • ISO 27001 • Systèmes et réseaux**
 
-Diplômé d'une école d'ingénieur en informatique, je développe une expertise en cybersécurité avec une spécialisation orientée gouvernance, gestion des risques et conformité. Mon objectif est d'accompagner les organisations dans l'amélioration de leur posture de sécurité avant d'évoluer vers des fonctions Blue Team puis d'ingénierie cybersécurité.
+Ingénieur diplômé en informatique (Polytech Nantes), orienté cybersécurité. J'ai mené, lors d'un stage de fin d'études de six mois, la mise en conformité ISO 27001 d'une entreprise cliente, et complété cette base par un stage d'administration système et réseau. Je construis un profil généraliste, ouvert à plusieurs types de postes en cybersécurité.
 
 ---
 
-## Positionnement professionnel
+## Domaines de compétence
 
-Je me spécialise dans les domaines suivants :
+Mes principaux domaines :
 
 - Gouvernance, Risque et Conformité (GRC)
 - Gestion des risques ISO 27005
 - Mise en œuvre et maintien d'un SMSI ISO 27001
 - Résilience opérationnelle et continuité d'activité
 - Sensibilisation et accompagnement des organisations
-- Évolution progressive vers les métiers Blue Team
 
 ---
 
 ## Expérience professionnelle
 
-### Brainframe Technologies — Consultant Cybersécurité (2024)
+### Brainframe Technologies — Stage de fin d'études, GRC (mars – août 2024, 6 mois)
 
 **Gonderange · Junglinster · Luxembourg**
 
-Participation à un projet d'accompagnement à la certification ISO 27001 pour F3C Systems.
+Mise en conformité ISO 27001 d'une entreprise cliente de Brainframe, sujet de mon stage, sous la supervision du dirigeant. L'entreprise cliente a été certifiée ISO 27001.
 
 #### Réalisations
 
@@ -53,7 +52,7 @@ Participation à un projet d'accompagnement à la certification ISO 27001 pour F
 
 ---
 
-### Kernl — Administrateur Système (2023)
+### Kernl — Stage d'administration système (avril – juillet 2023, 4 mois)
 
 **Tours · Centre-Val de Loire**
 
@@ -67,6 +66,18 @@ Participation à un projet d'accompagnement à la certification ISO 27001 pour F
 - Administration système Linux
 - Mise en œuvre de mécanismes de détection d'activités suspectes
 - Participation à la sécurisation d'infrastructures
+
+---
+
+### Nantarena, Club Rézo — Pôle réseau (bénévolat, 2021 – 2023)
+
+**Nantes**
+
+#### Réalisations
+
+- Conception et exploitation du réseau d'événements (plus de 300 participants simultanés)
+- Configuration et administration de pfSense
+- Supervision et résolution d'incidents
 
 ---
 
@@ -123,7 +134,6 @@ Participation à un projet d'accompagnement à la certification ISO 27001 pour F
 - GitHub
 - Ansible
 - Docker
-- OpenStack
 
 ---
 
@@ -209,8 +219,7 @@ Objectifs :
 
 ## Contact & disponibilité
 
-📧 Contact via la page [Contact](/contact/)  
-💼 LinkedIn *(à ajouter)*
+📧 Contact via la page [Contact](/contact/)
 
 Disponible pour :
 - premier poste en cybersécurité

@@ -10,11 +10,11 @@ Cette page présente les expériences qui ont contribué à construire mon parco
 
 # Brainframe Technologies
 
-## Consultant Cybersécurité – Gouvernance, Risque et Conformité
+## Stage de fin d'études – Gouvernance, Risque et Conformité
 
-**2024 – Gonderange (Luxembourg)**
+**Mars – août 2024 (6 mois) · Gonderange, Junglinster (Luxembourg)**
 
-Au sein de Brainframe Technologies, j'ai participé à un projet d'accompagnement à la certification ISO 27001 pour F3C Systems.
+Brainframe Technologies édite une plateforme de gouvernance, risque et conformité. Pendant mon stage de fin d'études, j'ai mené, sous la supervision de son dirigeant, la mise en conformité ISO 27001 d'une entreprise cliente : ce travail a été le sujet de mon stage et j'en ai réalisé l'essentiel. L'entreprise cliente a été certifiée ISO 27001.
 
 Cette expérience m'a permis de découvrir concrètement le fonctionnement d'un SMSI et les différentes étapes nécessaires à la mise en conformité d'une organisation.
 
@@ -56,9 +56,9 @@ Elle m'a permis de comprendre comment les exigences réglementaires et normative
 
 # Kernl
 
-## Administrateur Système
+## Stage – Administration système
 
-**2023 – Tours (France)**
+**Avril – juillet 2023 (4 mois) · Tours (France)**
 
 Cette expérience m'a permis de renforcer mes compétences techniques sur les environnements systèmes et réseaux.
 
@@ -68,7 +68,7 @@ Cette expérience m'a permis de renforcer mes compétences techniques sur les en
 * Administration système Linux
 * Mise en place de sauvegardes
 * Déploiement d'environnements LAMP
-* Supervision de postes de travail
+* Supervision d'un parc d'environ 20 postes de travail
 * Automatisation avec Ansible
 
 ### Sécurité

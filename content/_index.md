@@ -4,7 +4,7 @@ draft = false
 +++
 
 # Nathan Charpentier  
-**Cybersécurité — GRC → Blue Team → Ingénierie cyber**
+**Cybersécurité — gouvernance, risques et conformité · systèmes et réseaux**
 
 Je construis un profil en cybersécurité orienté **gestion des risques**, **défense des systèmes** et **résilience des organisations**.
 
@@ -40,6 +40,8 @@ Il s’adresse à la fois :
 ## Me découvrir
 
 - 🔍 [Comprendre mon parcours](about/)
+- 💼 [Voir mes expériences](experience/)
+- 🧪 [Découvrir mes projets](projects/)
 - 📄 [Consulter mon CV](cv/)
 - 📰 [Lire mes analyses cyber](posts/)
 - ✉️ [Me contacter](contact/)

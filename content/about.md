@@ -27,18 +27,9 @@ Technique, humain et organisation doivent fonctionner ensemble.
 
 ## Mon projet professionnel
 
-J’ai choisi une trajectoire volontairement progressive :
+Mon profil est volontairement **généraliste** : je ne m’engage pas, pour l’instant, sur une seule voie.
 
-- **GRC (Gouvernance, Risque, Conformité)**  
-  pour acquérir une vision globale, comprendre les enjeux métiers et réglementaires
-
-- **Blue Team**  
-  pour maîtriser la défense opérationnelle, la détection et la gestion des incidents
-
-- **Ingénierie cyber**  
-  pour concevoir des architectures sécurisées et durables
-
-Je fais le choix de **ne pas m’orienter vers la Red Team**, afin de me spécialiser dans la protection, la résilience et l’amélioration continue des systèmes.
+Mon stage de fin d’études m’a fait pratiquer la **gouvernance, le risque et la conformité (GRC)**, et mon stage d’administration système les **systèmes et réseaux**. Je m’intéresse aussi à la **défense opérationnelle** (détection, gestion des incidents) et à la conception d’architectures sécurisées, sans vouloir me limiter à une seule de ces facettes.
 
 ---
 

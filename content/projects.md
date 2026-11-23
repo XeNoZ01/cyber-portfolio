@@ -4,7 +4,7 @@ draft = false
 hiddenInHomeList = true
 +++
 
-Cette page rassemble les projets techniques, cybersécurité et documentation qui illustrent mon parcours, mes compétences et ma progression vers les métiers GRC, Blue Team et ingénierie cybersécurité.
+Cette page rassemble les projets techniques, cybersécurité et documentation qui illustrent mon parcours, mes compétences et ma progression en cybersécurité, de la gouvernance et conformité aux systèmes et réseaux.
 
 ---
 
@@ -39,7 +39,7 @@ Le site sert de support de candidature, de vitrine professionnelle et d’espace
 
 ---
 
-## Accompagnement ISO 27001 — F3C Systems
+## Accompagnement ISO 27001 d'un client
 
 ### Objectif
 
@@ -135,7 +135,7 @@ Renforcer mes bases techniques en réseau, analyse de trafic et sécurité opér
 * sécurité réseau
 * vulnérabilités
 * supervision
-* culture Blue Team
+* culture de la défense opérationnelle
 
 ---
 

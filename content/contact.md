@@ -11,12 +11,11 @@ Si vous souhaitez échanger à propos de mon parcours, d'un projet, d'une opport
 ## Me contacter
 
 - 📧 **Email :** <nathanch.pro01@gmail.com>
-<!-- - 💼 **LinkedIn :** [linkedin.com/in/ton-profil](https://linkedin.com/in/ton-profil) -->
 - 💻 **GitHub :** [github.com/XeNoZ01](https://github.com/XeNoZ01)
 
 ## Disponibilité
 
-Je suis actuellement ouvert aux opportunités dans le domaine de la cybersécurité, notamment en **Gouvernance, Risques et Conformité (GRC)**, en **sécurité des systèmes d'information** et à terme dans des fonctions orientées **Blue Team** et **Cybersecurity Engineering**.
+Je suis actuellement ouvert aux opportunités dans le domaine de la cybersécurité, notamment en **Gouvernance, Risques et Conformité (GRC)**, en **sécurité des systèmes d'information** et en **sécurité opérationnelle**.
 
 Je suis également disponible pour échanger sur des sujets techniques, des projets personnels ou toute autre discussion liée à la cybersécurité.
 
