@@ -1,7 +1,7 @@
 +++
 title = "Expériences"
 draft = false
-hiddenInHomeList = true
+description = "Deux stages et un engagement associatif : GRC, administration système, réseau."
 +++
 
 Cette page présente les expériences qui ont contribué à construire mon parcours en cybersécurité, aussi bien sur les aspects techniques que sur les dimensions gouvernance, risque et conformité.

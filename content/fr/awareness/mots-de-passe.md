@@ -2,6 +2,7 @@
 title = "Pourquoi les mots de passe restent un point faible"
 date = 2026-01-28
 draft = false
+translationKey = "mots-de-passe"
 +++
 
 ## Un problème toujours d’actualité

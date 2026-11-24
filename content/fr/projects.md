@@ -1,7 +1,7 @@
 +++
 title = "Projets"
 draft = false
-hiddenInHomeList = true
+description = "Projets techniques et documentaires qui illustrent mes compétences."
 +++
 
 Cette page rassemble les projets techniques, cybersécurité et documentation qui illustrent mon parcours, mes compétences et ma progression en cybersécurité, de la gouvernance et conformité aux systèmes et réseaux.
@@ -17,7 +17,7 @@ Créer un site statique professionnel afin de présenter mon parcours, mes comp�
 ### Technologies utilisées
 
 * Hugo
-* PaperMod
+* Thème Hugo sur mesure (bilingue français/anglais)
 * Markdown
 * Git
 * GitHub

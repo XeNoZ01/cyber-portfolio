@@ -2,6 +2,7 @@
 title = "Pourquoi les ransomwares restent une menace majeure"
 date = 2026-01-28
 draft = false
+translationKey = "ransomware"
 +++
 
 ## Contexte

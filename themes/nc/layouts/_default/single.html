@@ -1,0 +1,15 @@
+{{ define "main" }}
+<article class="wrap prose">
+  <header class="page-head">
+    <h1>{{ .Title }}</h1>
+    {{- if not .Date.IsZero }}
+    <p class="meta">{{ i18n "published" }} <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time> · {{ i18n "read_time" (dict "Count" .ReadingTime) }}</p>
+    {{- end }}
+    {{- with .Description }}<p class="lede">{{ . }}</p>{{ end }}
+  </header>
+  {{- if eq .Params.case_study "fictive" }}
+  <aside class="notice" role="note"><strong>{{ i18n "fictive_label" }}</strong><span>{{ i18n "fictive_note" }}</span></aside>
+  {{- end }}
+  {{ .Content }}
+</article>
+{{ end }}

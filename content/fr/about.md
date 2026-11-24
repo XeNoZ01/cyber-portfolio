@@ -1,7 +1,7 @@
 +++
 title = "À propos"
 draft = false
-hiddenInHomeList = true
+description = "Mon parcours, ma vision de la cybersécurité et mon projet professionnel."
 +++
 
 ## Qui je suis

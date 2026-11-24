@@ -1,7 +1,7 @@
 +++
-title = "Curriculum Vitae"
+title = "CV"
 draft = false
-hiddenInHomeList = true
+description = "Mon CV : formation, expériences, compétences, certifications."
 +++
 
 ## **Nathan Charpentier**
@@ -219,7 +219,7 @@ Objectifs :
 
 ## Contact & disponibilité
 
-📧 Contact via la page [Contact](/contact/)
+📧 Contact via la page [Contact](../contact/)
 
 Disponible pour :
 - premier poste en cybersécurité

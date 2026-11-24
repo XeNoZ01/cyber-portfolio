@@ -1,78 +1,96 @@
 baseURL = "https://xenoz01.github.io/cyber-portfolio/"
-languageCode = "fr-fr"
-defaultContentLanguage = "fr"
 title = "Nathan Charpentier | Cybersécurité"
-theme = "PaperMod"
+theme = "nc"
 
+defaultContentLanguage = "fr"
+defaultContentLanguageInSubdir = false
 enableRobotsTXT = true
+
+[markup.goldmark.renderer]
+  unsafe = false
+
+[taxonomies]
 
 [languages]
   [languages.fr]
     languageName = "Français"
+    languageCode = "fr-FR"
+    contentDir = "content/fr"
     weight = 1
+    [languages.fr.params]
+      description = "Portfolio de Nathan Charpentier : cybersécurité, gouvernance, risques et conformité (ISO 27001, ISO 27005), systèmes et réseaux. Parcours, veille et études de cas."
+      tagline = "Cybersécurité · gouvernance, risques et conformité · systèmes et réseaux"
+    [[languages.fr.menus.main]]
+      name = "À propos"
+      pageRef = "/about"
+      weight = 1
+    [[languages.fr.menus.main]]
+      name = "Expériences"
+      pageRef = "/experience"
+      weight = 2
+    [[languages.fr.menus.main]]
+      name = "Projets"
+      pageRef = "/projects"
+      weight = 3
+    [[languages.fr.menus.main]]
+      name = "Études de cas"
+      pageRef = "/cases"
+      weight = 4
+    [[languages.fr.menus.main]]
+      name = "Veille"
+      pageRef = "/posts"
+      weight = 5
+    [[languages.fr.menus.main]]
+      name = "Sensibilisation"
+      pageRef = "/awareness"
+      weight = 6
+    [[languages.fr.menus.main]]
+      name = "CV"
+      pageRef = "/cv"
+      weight = 7
+    [[languages.fr.menus.main]]
+      name = "Contact"
+      pageRef = "/contact"
+      weight = 8
 
-[menu]
-
-[[menu.main]]
-identifier = "home"
-name = "Accueil"
-url = "/"
-weight = 1
-
-[[menu.main]]
-identifier = "about"
-name = "À propos"
-url = "/about/"
-weight = 2
-
-[[menu.main]]
-identifier = "cv"
-name = "CV"
-url = "/cv/"
-weight = 3
-
-[[menu.main]]
-identifier = "experience"
-name = "Expériences"
-url = "/experience/"
-weight = 4
-
-[[menu.main]]
-identifier = "projects"
-name = "Projets"
-url = "/projects/"
-weight = 5
-
-[[menu.main]]
-identifier = "posts"
-name = "Articles"
-url = "/posts/"
-weight = 6
-
-[[menu.main]]
-identifier = "awareness"
-name = "Sensibilisation"
-url = "/awareness/"
-weight = 7
-
-[[menu.main]]
-identifier = "contact"
-name = "Contact"
-url = "/contact/"
-weight = 8
-
-[params]
-env = "production"
-defaultTheme = "auto"
-
-ShowReadingTime = true
-ShowWordCount = true
-ShowBreadCrumbs = true
-ShowCodeCopyButtons = true
-ShowPostNavLinks = true
-
-ShowShareButtons = false
-ShowRssButtonInSectionTermList = true
-
-UseHugoToc = true
-
+  [languages.en]
+    languageName = "English"
+    languageCode = "en-GB"
+    contentDir = "content/en"
+    title = "Nathan Charpentier | Cybersecurity"
+    weight = 2
+    [languages.en.params]
+      description = "Portfolio of Nathan Charpentier: cybersecurity, governance, risk and compliance (ISO 27001, ISO 27005), systems and networks. Background, security watch and case studies."
+      tagline = "Cybersecurity · governance, risk and compliance · systems and networks"
+    [[languages.en.menus.main]]
+      name = "About"
+      pageRef = "/about"
+      weight = 1
+    [[languages.en.menus.main]]
+      name = "Experience"
+      pageRef = "/experience"
+      weight = 2
+    [[languages.en.menus.main]]
+      name = "Projects"
+      pageRef = "/projects"
+      weight = 3
+    [[languages.en.menus.main]]
+      name = "Case studies"
+      pageRef = "/cases"
+      weight = 4
+    [[languages.en.menus.main]]
+      name = "Watch"
+      pageRef = "/posts"
+      weight = 5
+    [[languages.en.menus.main]]
+      name = "Awareness"
+      pageRef = "/awareness"
+      weight = 6
+    [[languages.en.menus.main]]
+      name = "CV"
+      pageRef = "/cv"
+      weight = 7
+    [[languages.en.menus.main]]
+      name = "Contact"
+      pageRef = "/contact"
+      weight = 8

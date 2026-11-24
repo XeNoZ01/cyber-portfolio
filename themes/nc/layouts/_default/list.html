@@ -1,0 +1,16 @@
+{{ define "main" }}
+<section class="wrap">
+  <header class="page-head">
+    <h1>{{ .Title }}</h1>
+  </header>
+  <div class="prose">{{ .Content }}</div>
+  {{- $pages := .Pages.ByDate.Reverse -}}
+  {{- if $pages }}
+  <div class="cards">
+    {{- range $pages }}{{ partial "card.html" . }}{{ end }}
+  </div>
+  {{- else if not .Content }}
+  <p>{{ i18n "no_posts" }}</p>
+  {{- end }}
+</section>
+{{ end }}

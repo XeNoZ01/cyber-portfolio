@@ -1,7 +1,7 @@
 +++
 title = "Contact"
 draft = false
-hiddenInHomeList = true
+description = "Me contacter par e-mail ou sur GitHub."
 +++
 
 Merci d'avoir pris le temps de visiter mon portfolio.
