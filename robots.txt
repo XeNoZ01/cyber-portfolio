@@ -1,3 +1,1 @@
 User-agent: *
-Disallow:
-Sitemap: https://xenoz01.github.io/cyber-portfolio/sitemap.xml
