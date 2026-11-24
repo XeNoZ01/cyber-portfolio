@@ -2,13 +2,13 @@
 &lt;p&gt;Optimizely piraté : 178 grands sites ont servi du code malveillant.&lt;/p&gt;
 &lt;h2 id="lessentiel"&gt;L&amp;rsquo;essentiel&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;Un fournisseur de scripts, Optimizely, a été piraté le 16 novembre : 178 grands sites, dont Air France et Ledger, ont diffusé pendant une journée un code qui volait cartes bancaires et cryptomonnaies.&lt;/li&gt;
+&lt;li&gt;Un fournisseur de scripts, Optimizely, a été piraté le 16 novembre : 178 grands sites, dont Ledger et la BBC, ont diffusé pendant une journée un code qui détournait des cryptomonnaies.&lt;/li&gt;
 &lt;li&gt;Deux failles majeures à corriger : vCenter de VMware, exploitée en secret depuis septembre par un groupe lié à la Chine, et Java4Shell, qui touche Java dans de nombreux logiciels d&amp;rsquo;entreprise.&lt;/li&gt;
 &lt;li&gt;La France a officiellement accusé l&amp;rsquo;Iran du sabotage des frigos de supermarchés, et l&amp;rsquo;Assemblée a adopté la loi Résilience qui transpose NIS2.&lt;/li&gt;
 &lt;li&gt;La CNIL rappelle les bases avec 5 millions d&amp;rsquo;euros d&amp;rsquo;amende pour des mots de passe stockés en clair.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id="les-sujets-de-la-semaine"&gt;Les sujets de la semaine&lt;/h2&gt;
-&lt;h3 id="optimizely-piraté--du-code-malveillant-injecté-sur-les-sites-de-178-organisations-dont-air-france"&gt;Optimizely piraté : du code malveillant injecté sur les sites de 178 organisations, dont Air France&lt;/h3&gt;
+&lt;h3 id="optimizely-piraté--du-code-malveillant-injecté-sur-les-sites-de-178-organisations-dont-ledger"&gt;Optimizely piraté : du code malveillant injecté sur les sites de 178 organisations, dont Ledger&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Chaîne d&amp;rsquo;approvisionnement · Critique&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Veille cyber, semaine du 09 au 15 novembre 2026 : Maileva, N-able, Outlook, NIS2</title><link>https://xenoz01.github.io/cyber-portfolio/posts/veille-2026-11-16/</link><pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate><guid>https://xenoz01.github.io/cyber-portfolio/posts/veille-2026-11-16/</guid><description>&lt;p&gt;&lt;em&gt;Bulletin de la semaine du 09/11 au 15/11, publié le 16/11/2026.&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id="lessentiel"&gt;L&amp;rsquo;essentiel&lt;/h2&gt;
 &lt;ol&gt;
@@ -33,7 +33,7 @@
 &lt;ol&gt;
 &lt;li&gt;Le vol de cryptomonnaies le plus important de l&amp;rsquo;histoire : 6,3 milliards de dollars dérobés à Binance, attribués par le FBI au groupe nord-coréen TraderTraitor.&lt;/li&gt;
 &lt;li&gt;Les failles d&amp;rsquo;octobre passent aux vraies attaques : PHP2Shell compromet des pare-feu Palo Alto, GitLab, Brotli et une nouvelle faille Cisco sont confirmées exploitées.&lt;/li&gt;
-&lt;li&gt;En France, la vague de fuites touchant les partis continue (PRG, Écologistes, RN) et un deuxième adolescent est mis en examen pour le piratage des impôts.&lt;/li&gt;
+&lt;li&gt;En France, la vague de fuites touchant les partis continue (PRG, Écologistes, RN) et un deuxième suspect est mis en examen pour le piratage des impôts.&lt;/li&gt;
 &lt;li&gt;La Belgique coupe les services en ligne de son fisc après une cyberattaque, et la CNIL inflige 7 M€ à la Fnac pour des traceurs sans consentement.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3 id="binance--63-milliards-de-dollars-volés-le-plus-gros-vol-de-lhistoire"&gt;Binance : 6,3 milliards de dollars volés, le plus gros vol de l&amp;rsquo;histoire&lt;/h3&gt;
@@ -47,11 +47,11 @@
 &lt;h3 id="actil--un-fichier-de-61-000-assurés-appareillés-en-audition-diffusé-gratuitement"&gt;Actil : un fichier de 61 000 assurés appareillés en audition diffusé gratuitement&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Fuite de données · Important&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>PHP2Shell : les premières vraies intrusions sont confirmées</title><link>https://xenoz01.github.io/cyber-portfolio/posts/veille-2026-10-26/</link><pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate><guid>https://xenoz01.github.io/cyber-portfolio/posts/veille-2026-10-26/</guid><description>&lt;h2 id="lessentiel"&gt;L&amp;rsquo;essentiel&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;Cinq jours après les correctifs, PHP2Shell passe des tentatives aux intrusions réussies : un pot de miel confirme une exécution de code et une administration européenne a été compromise.&lt;/li&gt;
+&lt;li&gt;Cinq jours après les correctifs, PHP2Shell passe des tentatives aux intrusions réussies : des pots de miel confirment des exécutions de code (une compromission d&amp;rsquo;administration européenne, annoncée puis retirée, est corrigée dans le billet du 27/10).&lt;/li&gt;
 &lt;li&gt;En France, le pirate ChimeraZ ajoute à ses revendications 905 097 lignes de plaques d&amp;rsquo;immatriculation, pendant que Renaissance et LFI contestent toute intrusion.&lt;/li&gt;
 &lt;li&gt;Côté défense, deux rapports montrent que voler un jeton (Microsoft 365, GitHub) vaut souvent mieux qu&amp;rsquo;un mot de passe pour les attaquants.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3 id="php2shell--première-intrusion-réussie-confirmée-une-administration-européenne-touchée"&gt;PHP2Shell : première intrusion réussie confirmée, une administration européenne touchée&lt;/h3&gt;
+&lt;h3 id="php2shell--premières-exécutions-de-code-réussies-confirmées"&gt;PHP2Shell : premières exécutions de code réussies confirmées&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Faille · Critique · Suivi&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Fuites revendiquées chez LFI, Renaissance et le PCF par un même pirate</title><link>https://xenoz01.github.io/cyber-portfolio/posts/veille-2026-10-25/</link><pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate><guid>https://xenoz01.github.io/cyber-portfolio/posts/veille-2026-10-25/</guid><description>&lt;h2 id="lessentiel"&gt;L&amp;rsquo;essentiel&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;Un pirate, ChimeraZ, revendique des fuites de données de campagne chez trois partis français (LFI, Renaissance, PCF) ; les chiffres ne sont pas vérifiés.&lt;/li&gt;

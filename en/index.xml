@@ -10,13 +10,13 @@
 &lt;p&gt;Optimizely compromised: 178 major websites served malicious code.&lt;/p&gt;
 &lt;h2 id="key-points"&gt;Key points&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;A script provider, Optimizely, was compromised on 16 November: 178 major websites, including Air France and Ledger, served for a day code that stole bank cards and cryptocurrency.&lt;/li&gt;
+&lt;li&gt;A script provider, Optimizely, was compromised on 16 November: 178 major websites, including Ledger and the BBC, served for a day code that diverted cryptocurrency.&lt;/li&gt;
 &lt;li&gt;Two major flaws to fix: VMware vCenter, secretly exploited since September by a China-linked group, and Java4Shell, which affects Java in many enterprise software products.&lt;/li&gt;
 &lt;li&gt;France officially accused Iran of sabotaging supermarket fridges, and the National Assembly adopted the Résilience bill that transposes NIS2.&lt;/li&gt;
 &lt;li&gt;The CNIL reminds everyone of the basics with a EUR 5 million fine for passwords stored in clear text.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id="this-weeks-topics"&gt;This week&amp;rsquo;s topics&lt;/h2&gt;
-&lt;h3 id="optimizely-compromised-malicious-code-injected-into-the-sites-of-178-organisations-including-air-france"&gt;Optimizely compromised: malicious code injected into the sites of 178 organisations, including Air France&lt;/h3&gt;
+&lt;h3 id="optimizely-compromised-malicious-code-injected-into-the-sites-of-178-organisations-including-ledger"&gt;Optimizely compromised: malicious code injected into the sites of 178 organisations, including Ledger&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Supply chain · Critical&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Cyber watch, week of 9 to 15 November 2026: Maileva, N-able, Outlook, NIS2</title><link>https://xenoz01.github.io/cyber-portfolio/en/posts/watch-2026-11-16/</link><pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate><guid>https://xenoz01.github.io/cyber-portfolio/en/posts/watch-2026-11-16/</guid><description>&lt;p&gt;&lt;em&gt;Bulletin for the week of 9 to 15 November, published on 16 November 2026.&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id="key-points"&gt;Key points&lt;/h2&gt;
 &lt;ol&gt;
@@ -41,7 +41,7 @@
 &lt;ol&gt;
 &lt;li&gt;The largest cryptocurrency theft in history: $6.3 billion stolen from Binance, attributed by the FBI to the North Korean group TraderTraitor.&lt;/li&gt;
 &lt;li&gt;October&amp;rsquo;s vulnerabilities turn into real attacks: PHP2Shell compromises Palo Alto firewalls, and GitLab, Brotli and a new Cisco flaw are confirmed as exploited.&lt;/li&gt;
-&lt;li&gt;In France, the wave of leaks hitting political parties continues (PRG, Écologistes, RN) and a second teenager is indicted over the tax-authority hack.&lt;/li&gt;
+&lt;li&gt;In France, the wave of leaks hitting political parties continues (PRG, Écologistes, RN) and a second suspect is indicted over the tax-authority hack.&lt;/li&gt;
 &lt;li&gt;Belgium shuts down its tax authority&amp;rsquo;s online services after a cyberattack, and the CNIL (the French data protection authority) fines Fnac €7 million for trackers set without consent.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3 id="binance-63-billion-stolen-the-biggest-theft-in-history"&gt;Binance: $6.3 billion stolen, the biggest theft in history&lt;/h3&gt;
@@ -55,11 +55,11 @@
 &lt;h3 id="actil-a-file-on-61000-hearing-aid-policyholders-released-for-free"&gt;Actil: a file on 61,000 hearing-aid policyholders released for free&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Data leak · Important&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>PHP2Shell: the first real intrusions are confirmed</title><link>https://xenoz01.github.io/cyber-portfolio/en/posts/watch-2026-10-26/</link><pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate><guid>https://xenoz01.github.io/cyber-portfolio/en/posts/watch-2026-10-26/</guid><description>&lt;h2 id="the-essentials"&gt;The essentials&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;Five days after the fixes, PHP2Shell moves from attempts to successful intrusions: a honeypot confirms code execution and a European administration has been compromised.&lt;/li&gt;
+&lt;li&gt;Five days after the fixes, PHP2Shell moves from attempts to successful intrusions: honeypots confirm code execution (a compromise of a European administration, announced then withdrawn, is corrected in the 27 October bulletin).&lt;/li&gt;
 &lt;li&gt;In France, the hacker ChimeraZ adds 905,097 rows of licence plate data to their claims, while Renaissance and LFI deny any intrusion.&lt;/li&gt;
 &lt;li&gt;On the defence side, two reports show that stealing a token (Microsoft 365, GitHub) is often worth more to attackers than a password.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3 id="php2shell-first-successful-intrusion-confirmed-a-european-administration-hit"&gt;PHP2Shell: first successful intrusion confirmed, a European administration hit&lt;/h3&gt;
+&lt;h3 id="php2shell-first-successful-code-executions-confirmed"&gt;PHP2Shell: first successful code executions confirmed&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Vulnerability · Critical · Follow-up&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Claimed leaks at LFI, Renaissance and the PCF by the same hacker</title><link>https://xenoz01.github.io/cyber-portfolio/en/posts/watch-2026-10-25/</link><pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate><guid>https://xenoz01.github.io/cyber-portfolio/en/posts/watch-2026-10-25/</guid><description>&lt;h2 id="the-essentials"&gt;The essentials&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;A hacker, ChimeraZ, claims campaign-data leaks at three French political parties (LFI, Renaissance, PCF); the figures are unverified.&lt;/li&gt;
