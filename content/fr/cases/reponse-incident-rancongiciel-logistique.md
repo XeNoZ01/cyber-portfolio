@@ -1,7 +1,7 @@
 +++
 title = "Réponse à incident : compte administrateur compromis et rançongiciel"
 date = 2026-11-24
-draft = true
+draft = false
 description = "Scénario fictif dans une PME logistique de 60 personnes : chronologie heure par heure, décisions, notifications et retour d'expérience, selon le cycle de réponse à incident NIST et ISO/IEC 27035."
 case_study = "fictive"
 translationKey = "incident-response-ransomware"

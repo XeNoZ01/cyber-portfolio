@@ -1,7 +1,7 @@
 +++
 title = "Business continuity and disaster recovery for a SaaS publisher"
 date = 2026-11-24
-draft = true
+draft = false
 description = "Fictional case study: business impact analysis (BIA), disaster scenarios, recovery strategies, test plan and indicators for a fictional 40-person SaaS publisher."
 case_study = "fictive"
 translationKey = "continuite-saas"

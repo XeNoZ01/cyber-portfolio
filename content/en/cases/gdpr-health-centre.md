@@ -1,7 +1,7 @@
 +++
 title = "GDPR compliance of a health centre"
 date = 2026-11-24
-draft = true
+draft = false
 description = "Compliance walkthrough on a fictional 30-person organisation: record of processing, processors, data subject rights, impact assessment, security and handling of a personal data breach."
 case_study = "fictive"
 translationKey = "rgpd-centre-sante"

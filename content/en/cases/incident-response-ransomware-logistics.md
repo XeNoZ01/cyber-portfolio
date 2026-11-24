@@ -1,7 +1,7 @@
 +++
 title = "Incident response: compromised admin account and ransomware"
 date = 2026-11-24
-draft = true
+draft = false
 description = "Fictional scenario in a 60-person logistics SME: hour-by-hour timeline, decisions, notification duties and lessons learned, following the NIST and ISO/IEC 27035 incident response lifecycle."
 case_study = "fictive"
 translationKey = "incident-response-ransomware"

@@ -1,7 +1,7 @@
 +++
 title = "Continuité et reprise d'activité d'un éditeur SaaS"
 date = 2026-11-24
-draft = true
+draft = false
 description = "Étude de cas fictive : analyse d'impact (BIA), scénarios de sinistre, stratégies de reprise, plan de tests et indicateurs pour un éditeur SaaS fictif de 40 personnes."
 case_study = "fictive"
 translationKey = "continuite-saas"

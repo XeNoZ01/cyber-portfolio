@@ -1,7 +1,7 @@
 +++
 title = "Mise en conformité RGPD d'un centre de santé"
 date = 2026-11-24
-draft = true
+draft = false
 description = "Démarche de conformité sur une organisation fictive de 30 personnes : registre des traitements, sous-traitants, droits des personnes, analyse d'impact, sécurité et gestion d'une violation de données."
 case_study = "fictive"
 translationKey = "rgpd-centre-sante"
